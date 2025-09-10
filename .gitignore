@@ -10,11 +10,13 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Data (ignore files but keep placeholders)
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
+# Data
+# Track raw CSV/TSV/JSON; ignore heavy binaries and processed outputs
+data/processed/
+data/raw/**/*.pdf
+data/raw/**/*.xlsx
+data/raw/**/*.xls
+data/raw/**/*.zip
 
 # OS
 Thumbs.db
