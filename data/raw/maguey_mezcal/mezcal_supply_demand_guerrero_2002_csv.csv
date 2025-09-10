@@ -1,0 +1,6 @@
+Geography,Year,Production_liters,Note,Source,Production_liters_low,Production_liters_high,Price_MXN_per_liter_low,Price_MXN_per_liter_high,Price_MXN_per_liter
+Community (La Esperanza),2002,5000.0,Community annual production,R7925f_Maguey-mezcal.pdf,,,,,
+Region (Centro-Montaña Guerrero),2002,,Regional annual production range,R7925f_Maguey-mezcal.pdf,40000.0,60000.0,,,
+Local market (community),2002,,Local sale price depends on quality,R7925f_Maguey-mezcal.pdf,,,25.0,40.0,
+Bottler purchase price,2002,,Envasadora comercial paga ~$20/l,R7925f_Maguey-mezcal.pdf,,,,,20.0
+Retail (bottled to public),2002,,Public price depends on presentation,R7925f_Maguey-mezcal.pdf,,,100.0,250.0,
