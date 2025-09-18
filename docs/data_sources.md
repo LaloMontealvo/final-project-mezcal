@@ -17,10 +17,14 @@ Official regulatory reports: production, bottling, and indicators.
 - `production_2005_2024.csv`
 - `bottling_export_2011_2024.csv`
 - `bottling_national_2011_2024.csv`
-- `indicators_2021_2024.csv`
+- `brands_export_growth_2011_2024.csv`
+- `brands_fixed_2021_2024_v2.csv`
+- `economic_impact_2010_2023_wide.csv`
+- `sme_strategies.csv`
+- `eu_market_projection.csv`
+- `mezcal_export_estado.csv`
 - `clean_mezcal_full.csv`
-
----
+- `ORIGINAL_clean_mezcal_full.csv`
 
 ## 2) Interciencia Magazine
 Sector studies: brands, economic impact, SME strategies.
