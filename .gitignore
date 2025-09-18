@@ -23,3 +23,8 @@ Thumbs.db
 .DS_Store
 # Ignore Tableau backup files
 *.twbr
+
+# Tableau
+*.twbx
+*.twbr
+*.twb
