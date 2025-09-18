@@ -63,7 +63,8 @@ See [`docs/data_sources.md`](docs/data_sources.md) for a full inventory of raw d
 - Hypothesis testing notebooks (`/notebooks/`)  
 - Interactive Tableau dashboard  
 - Final presentation slides  
-
+## Presentation
+Final slides (Google Slides): https://docs.google.com/presentation/d/1JJY0O03tqqFcEj83QzFRgjWwRd292hhJ7yXJpeSyeCM/edit?usp=sharing
 ---
 
 ## Team & Acknowledgements
